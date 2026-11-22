@@ -19,3 +19,6 @@ Proje tamamen Windows ortamında ve standart Python kütüphaneleriyle çalışm
 ```bash
 git clone [https://github.com/KULLANICI_ADIN/uask-egitim.git](https://github.com/KULLANICI_ADIN/uask-egitim.git)
 cd uask-egitim
+
+<img width="1316" height="356" alt="uask logo siyah (2)" src="https://github.com/user-attachments/assets/d4c573de-5b8b-4a18-8873-75fdfd7d5987" />
+
