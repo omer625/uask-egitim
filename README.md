@@ -21,4 +21,5 @@ git clone [https://github.com/KULLANICI_ADIN/uask-egitim.git](https://github.com
 cd uask-egitim
 ```
 
-<img width="473" height="86" alt="image" src="https://github.com/user-attachments/assets/d7b36310-531e-4c3a-81fb-c09ef916e54c" />
+<img width="1316" height="356" alt="uask logo siyah (2)" src="https://github.com/user-attachments/assets/cf7b7716-e45c-49c7-826a-1c76bbb1939c" />
+
